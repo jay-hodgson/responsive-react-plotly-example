@@ -1,5 +1,6 @@
 # responsive-react-plotly-example
 
-npm install
-npm start
 
+1. npm install
+2. npm start
+Result should show 3 responsive pie charts.
